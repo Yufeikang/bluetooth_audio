@@ -1,8 +1,8 @@
 from AppKit import IOBluetoothDevice
 
 
-ICON_CONNECTED = 'icon_connected.png'
-ICON_DISCONNECT = 'icon_disconnect.png'
+ICON_CONNECTED = 'icon/icon_connected.png'
+ICON_DISCONNECT = 'icon/icon_disconnect.png'
 
 
 def get_all_devices():

@@ -4,5 +4,9 @@
 
 选中耳机回车 断开/连接
 
-[下载](https://github.com/Yufeikang/bluetooth_audio/blob/master/BlueAudio.workflows?raw=true)
+[下载](https://github.com/Yufeikang/bluetooth_audio/blob/master/BlueAudio.alfredworkflow?raw=true)
+
+# TODO
+
+
 
