@@ -121,7 +121,7 @@
 				<key>escaping</key>
 				<integer>38</integer>
 				<key>script</key>
-				<string>/usr/bin/python trigger_blue.py "{query}"</string>
+				<string>/usr/bin/python toggle_blue.py "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
